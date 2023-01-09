@@ -1,10 +1,8 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This is a simple software designed to take a user input (A name), and display a friendly "Hello World!" message back to the user, addressed with the name that was inputted.
 
-{Provide a description of your software}
-
-{Describe your purpose for creating this software.}
+The purpose of this software is to display basic information after receiving a user input.
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
@@ -12,12 +10,13 @@
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+This software was developed using the Visual Studio Code IDE, as well as a gcc compiler for 64-bit windows applications, from MinGW, installed with MSYS2.
 
-{Describe the programming language that you used}
+This software was written in the C programming language, utilizing several headers from the C standard library, including stdio.h, stdlib.h, stdbool.h, and string.h. This software also makes use of the conio library.
+
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+
+* [RapidTables ASCII Table](https://www.rapidtables.com/code/text/ascii-table.html)
+* [cppreference C Standard Library Header Files](https://en.cppreference.com/w/c/header)
