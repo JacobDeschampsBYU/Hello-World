@@ -41,16 +41,12 @@ void wait(void){
     return;
 }
 
-void clearScreen(void){
-    printf("\e[1;1H\e[2J");
-    return;
-}
 
 int main(int argc, char ** argv){
     char name[50];
     puts("Please enter your name: ");
-    getString(name, 50);
-    clearScreen();
+    getString(name, sizeof(name));
+    system("cls");
     char message[71] = "Well, ";
     strcat(message, name);
     strcat(message, ", Hello World!");

@@ -4,9 +4,9 @@ This is a simple software designed to take a user input (A name), and display a 
 
 The purpose of this software is to display basic information after receiving a user input.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+
+[Software Demo Video](https://youtu.be/5OF5LrLgVp4)
 
 # Development Environment
 
